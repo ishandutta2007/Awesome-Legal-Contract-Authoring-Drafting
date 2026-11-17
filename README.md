@@ -6,13 +6,13 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolets?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Legal-Contract-Authoring-Drafting?style=social&color=white)](https://github.com/ishandutta2007/Awesome-Legal-Contract-Authoring-Drafting/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Legal-Contract-Authoring-Drafting?style=social&color=white)](https://github.com/ishandutta2007/Awesome-Legal-Contract-Authoring-Drafting/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![LegalTech Category](https://img.shields.io/badge/Domain-LegalTech%20%26%20CLM-purple?style=flat-square)](https://github.com/topics/legaltech)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**A comprehensive, curated catalog of the world's best Legal Contract Authoring, Document Assembly, AI Redlining, and Contract Lifecycle Management (CLM) tools.** Featuring in-depth pricing disclosures, company scale benchmarks (valuation/revenue), free tier limits, and ranked open-source software with live star badges.
+**A comprehensive, curated catalog of the world's best Legal Contract Authoring, Document Assembly, AI Redlining, and Contract Lifecycle Management (CLM) tools.** Featuring in-depth pricing disclosures, company scale benchmarks (valuation/revenue), free tier limits, and ranked open-source software with live Stars_Badges.
 
 ---
 
@@ -59,9 +59,9 @@ Below is the audited comparison of commercial Contract Authoring, Negotiation, a
 
 ## 🔓 Open-Source Software & Toolkits
 
-Self-hosted, transparent, and developer-friendly tools for guided document assembly, digital contracts, and automated legal drafting. Listed in **descending order by GitHub star count**.
+Self-hosted, transparent, and developer-friendly tools for guided document assembly, digital contracts, and automated legal drafting. Listed in **descending order by GitHub Stars_Count**.
 
-| 📦 Repository & Project | 🌟 GitHub Stars Badge | 🛠️ Tech Stack | 💡 Core Capabilities for Contract Authoring & Drafting |
+| 📦 Repository & Project | 🌟 GitHub_Stars_Badge | 🛠️ Tech Stack | 💡 Core Capabilities for Contract Authoring & Drafting |
 | :--- | :---: | :--- | :--- |
 | **[Documenso](https://github.com/documenso/documenso)** | [![Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers) | TypeScript, Next.js, Prisma, PostgreSQL | Next-generation open-source document signing, custom contract template configuration, and approval workflows. |
 | **[OpenSign](https://github.com/OpenSignLabs/OpenSign)** | [![Stars](https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social&color=white)](https://github.com/OpenSignLabs/OpenSign/stargazers) | Node.js, React, MongoDB | Free & self-hosted DocuSign/PandaDoc alternative with PDF drafting, dynamic signature placeholders, and team controls. |
