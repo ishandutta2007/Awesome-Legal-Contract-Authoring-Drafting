@@ -4,11 +4,13 @@
 
 # ⚖️ Awesome Legal Contract Authoring & Drafting 📜
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolets?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Legal-Contract-Authoring-Drafting?style=social&color=white)](https://github.com/ishandutta2007/Awesome-Legal-Contract-Authoring-Drafting/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![LegalTech Category](https://img.shields.io/badge/Domain-LegalTech%20%26%20CLM-purple?style=flat-square)](https://github.com/topics/legaltech)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A comprehensive, curated catalog of the world's best Legal Contract Authoring, Document Assembly, AI Redlining, and Contract Lifecycle Management (CLM) tools.** Featuring in-depth pricing disclosures, company scale benchmarks (valuation/revenue), free tier limits, and ranked open-source software with live star badges.
 
@@ -22,6 +24,8 @@
 - [🔓 Open-Source Software & Toolkits](#-open-source-software--toolkits)
 - [✨ Key Selection Matrix](#-key-selection-matrix)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -96,6 +100,24 @@ Contributions, feature requests, and suggestions are welcome!
 3. 💾 Commit your changes (`git commit -m 'Add awesome legal drafting tool'`).
 4. 🚀 Push to the branch (`git push origin feature/awesome-addition`).
 5. 📬 Open a Pull Request.
+
+---
+
+## 💖 Support
+
+Thank you so much for exploring and supporting **Awesome Legal Contract Authoring & Drafting**! 🌟
+
+If you found this resource helpful, please consider:
+- ⭐ **Starring** the repository on GitHub
+- 🍴 **Forking** and contributing new legaltech tools or updates
+- 📢 **Sharing** this curated list with legal engineers, attorneys, and developers
+- ☕ **Buying a coffee** to sponsor ongoing curation and maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## ⭐️ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Legal-Contract-Authoring-Drafting&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Legal-Contract-Authoring-Drafting&type=date&legend=top-left)
 
 ---
 
